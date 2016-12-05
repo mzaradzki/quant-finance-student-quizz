@@ -545,7 +545,7 @@
 
 ## Questions found on the web
 
-// From: www.hyperink.com/Common-Goldman-Sales-And-Trading-Interview-Questions-b37a83
+From : www.hyperink.com/Common-Goldman-Sales-And-Trading-Interview-Questions-b37a83
 
 	I buy a 7 year par bond paying 8% annual. What is the YTM? If I wait 1 year and sell it at a YTM of 7%, how much money do I have?
 	I have a 10 year 6% bond. What is the maximum price this bond could ever reach? Why?
@@ -555,7 +555,7 @@
 	
 	What is the greatest dollar value in coins you can have in your hand without being able to make change for a dollar?,
 
-// http://www.proprofs.com/quiz-school/story.php?title=test-on-derivatives-cfa-level-1
+Fom : http://www.proprofs.com/quiz-school/story.php?title=test-on-derivatives-cfa-level-1
 	
 	What are the minimum values of an American-style and a European-style 3-month call option with a strike price of $90 on a non-dividend-paying stock trading at $96 if the risk-free rate is 3%?
 	A.	American: $6.00, European: $6.00
@@ -607,7 +607,7 @@
 	C.	$3.9
 
 
-// http://www.proprofs.com/quiz-school/story.php?title=test-on-portfolio-management-cfa-level-1
+Fom : http://www.proprofs.com/quiz-school/story.php?title=test-on-portfolio-management-cfa-level-1
 	
 	If two stocks have positive covariance, which of the following statements is TRUE?
 	A.	If one stock doubles in price, the other will also double in price
@@ -694,7 +694,7 @@
 	C.	Investors who opt for capital preservation or capital appreciation, time horizon is irrelevant
 
 
-// http://www.proprofs.com/quiz-school/story.php?title=test-on-fixed-income-cfa-level-1
+From : http://www.proprofs.com/quiz-school/story.php?title=test-on-fixed-income-cfa-level-1
 	
 	Which of the following is true about a bond with a deferred call provision?
 	A.	It could be called at any time during the tenure of the bond
@@ -797,7 +797,7 @@
 
 
 ## Questions compiler by Jussieu students during interviews
-// http://www.proba.jussieu.fr/IFMA/documents/Questions%20entretiens.pdf
+From : http://www.proba.jussieu.fr/IFMA/documents/Questions%20entretiens.pdf
 	
 	Qu’est qu’un contrat forward ? Qu’est ce que le prix forward ?
 	Qu’est qu’une option lookback, une obligation, un swap de taux, un swaption, un caplet, un floorlet... 
