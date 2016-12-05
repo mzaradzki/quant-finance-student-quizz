@@ -2,191 +2,218 @@
 
 ### FINANCE
 	
-'What is the meaning of RWA?
+	What is the meaning of RWA?
 
-'How do you compute a trade CVA?
+	How do you compute a trade CVA?
 
-'In the credit risk context what is the meaning of LGD?
+	In the credit risk context what is the meaning of LGD?
 
-'In the credit risk context what is the meaning of PD?
+	In the credit risk context what is the meaning of PD?
 
-'In the credit risk context what is the meaning of EAD?
+	In the credit risk context what is the meaning of EAD?
 
-'What is the difference between the VaR and the Expected-Shortfall of a portfolio?
+	What is the difference between the VaR and the Expected-Shortfall of a portfolio?
 
-'What is a one-way CSA?
+	What is a one-way CSA?
 
-'In a credit-risk context, what is the meaning of **Wrong Way Risk**?
+	In a credit-risk context, what is the meaning of **Wrong Way Risk**?
 
-In a credit-risk context, what is a **hair-cut**?
+	In a credit-risk context, what is a **hair-cut**?
 
-What is the **pin-risk** of a portfolio?
+	What is the **pin-risk** of a portfolio?
 
-Which instruments have a **delta-gap**? What is the implication for the trader?	
+	Which instruments have a **delta-gap**? What is the implication for the trader?	
 
-What is the difference between **notes**, **bills** and **bonds**?
+	What is the difference between **notes**, **bills** and **bonds**?
 
-A company has a 5% chance to default in the coming year, what is the price of its CDS?
+	A company has a 5% chance to default in the coming year, what is the price of its CDS?
 
-What is the meaning of ITraxx?
+	What is the meaning of ITraxx?
 
-What is the meaning of **cotango**?
+	What is the meaning of **cotango**?
 
-What is the meaning of **backwardation**?
-	
-What is the implication of Euler theorem for Var allocation?
+	What is the meaning of **backwardation**?
+		
+	What is the implication of Euler theorem for Var allocation?
 
-What is the meaning of Vanna?
+	What is the meaning of Vanna?
 
-What is the meaning of Volga?
-	
-What is the longest bond maturity ever issued?
+	What is the meaning of Volga?
+		
+	What is the longest bond maturity ever issued?
 
-On the bond market, whats is the meaning of TIPS?
-	
-A large car-maker goes bankrupt. You hold 100Musd notional of debt. How much is it worth now?
+	On the bond market, whats is the meaning of TIPS?
+		
+	A large car-maker goes bankrupt. You hold 100Musd notional of debt. How much is it worth now?
 
-As an investor you hold a long-only portfolio of bonds. Interest rate curves move 1% higher. What is the impact on your PnL?
+	As an investor you hold a long-only portfolio of bonds. Interest rate curves move 1% higher. What is the impact on your PnL?
 
-What is the **duration** of a bond portfolio?
-	
-What does it mean for a bond to trade **at par**?
+	What is the **duration** of a bond portfolio?
+		
+	What does it mean for a bond to trade **at par**?
 
-What is the difference between the **rate** and the **yield** of a bond?
+	What is the difference between the **rate** and the **yield** of a bond?
 
-How do you define the **marginal VaR** of a portfolio?
+	How do you define the **marginal VaR** of a portfolio?
 
-What are convertible bonds?
+	What are convertible bonds?
 	
 
 
 ## Finance > General
 
-What is the PER of a stock?
+	What is the PER of a stock?
 
-What is a commodity currency?
+	What is a commodity currency?
 
-What is a safe haven?
+	What is a safe haven?
 
-What is a carry currency?
+	What is a carry currency?
 
-What is a pegged currency?
+	What is a pegged currency?
 
-What is a currency band?
+	What is a currency band?
 
-What does a bullion trader?', field:'Finance', expertise:'General'},
+	What does a bullion trader?
 
-What happened at LTCM in 1998?', field:'Finance', expertise:'General'},
+	What happened at LTCM in 1998?
 
-On the FX market, what is the **Cable**?', field:'Finance', expertise:'General'},
+	On the FX market, what is the **Cable**?
 
-What are XAU, XAG and XPT?', field:'Finance', expertise:'General'},
+	What are XAU, XAG and XPT?
 
-What is WTI?', field:'Finance', expertise:'General'},
+	What is WTI?
 
-What is the difference between WTI and Brent?', field:'Finance', expertise:'General'},
+	What is the difference between WTI and Brent?
 
-What is a **carry** strategy?
+	What is a **carry** strategy?
 
-What is the meaning of EONIA?
+	What is the meaning of EONIA?
 
-What is the meaning of SONIA?
+	What is the meaning of SONIA?
 
-What is the Fed Fund?
+	What is the Fed Fund?
 
-What is an OIS?
+	What is an OIS?
 
-What is a bear market? What is a bull market?
+	What is a bear market? What is a bull market?
 
-Name the 3 main rating agencies.
+	Name the 3 main rating agencies.
 
-What are cyclical stocks?
+	What are cyclical stocks?
 
-What are the **clean** and **dirty** prices of a bond?
+	What are the **clean** and **dirty** prices of a bond?
 
 
 
 ## Finance > Derivatives
 
-What is a Risk-Reversal trade?', field:'Finance', expertise:'Derivatives'},
+	What is a Risk-Reversal trade?
 
-What is the difference between a Straddle and a Strangle?', field:'Finance', expertise:'Derivatives'},
+	What is the difference between a Straddle and a Strangle?
 
-On the option market, what does it mean to buy the **wings**?', field:'Finance', expertise:'Derivatives'},
+	On the option market, what does it mean to buy the **wings**?
 
-For a **WorstOfOption** what is the impact of a correlation change?', field:'Finance', expertise:'Derivatives'},
+	For a **WorstOfOption** what is the impact of a correlation change?
 
-For a **BestOfOption** what is the impact of a correlation change?', field:'Finance', expertise:'Derivatives'},
+	For a **BestOfOption** what is the impact of a correlation change?
 
-For a structured instrument, what is an **auto-call** feature?', field: 'Finance', expertise:'Derivatives'},
+	For a structured instrument, what is an **auto-call** feature?
 
-What is a **quanto** option?', field:'Finance', expertise:'Derivatives'},
+	What is a **quanto** option?
 
-What is a **reverse** barrier option? What is a **regular** barrier option?', field:'Finance', expertise:'Derivatives'},
+	What is a **reverse** barrier option? What is a **regular** barrier option?
 	{text:'What is an ABS?', field:'Finance', expertise:'Derivatives'},
 	{text:'What is an MBS?', field:'Finance', expertise:'Derivatives'},
 	{text:'What is a CDO?', field:'Finance', expertise:'Derivatives'},
-	{text:'What is the specific feature of an **asian** option?', field:'Finance', expertise:'Derivatives'},
-	{text:'What is the specific feature of a **bermudean** option?', field:'Finance', expertise:'Derivatives'},
-	{text:'If you are long a **bond future**, what are you going to receive upon delivery?', field:'Finance', expertise:'Derivatives'},
-	{text:'What are the benefits of trading **futures** instead of **forward** contracts?', field:'Finance', expertise:'Derivatives'},
-	{text:'What is a quanto CDS?', field:'Finance', expertise:'Derivatives'},
-	{text:'What is a **cliquet** option?', field:'Finance', expertise:'Derivatives'},
-	{text:'What is the typical shape of the **volatility smile** for an equity index?', field:'Finance', expertise:'Derivatives'},
-	{text:'How do you derive the FX forward rate from the FX spot rate?', field:'Finance', expertise:'Derivatives'},
-	{text:'What are the upper and lower bounds for the price of a **European Put** option?', field:'Finance', expertise:'Derivatives'},
-	{text:'Do you know any kind of option contract whose **vega** is negative?', field:'Finance', expertise:'Derivatives'},
-	{text:'Consider a trade where the bank (B) pays Libor and the client (C) pays 12-2xLibor. Can you describe this trade in a more canonical way?', field:'Finance', expertise:'Derivatives'},
+
+	What is the specific feature of an **asian** option?
+	
+	What is the specific feature of a **bermudean** option?
+	
+	If you are long a **bond future**, what are you going to receive upon delivery?
+	
+	What are the benefits of trading **futures** instead of **forward** contracts?
+
+	What is a quanto CDS?
+
+	What is a **cliquet** option?
+
+	What is the typical shape of the **volatility smile** for an equity index?
+
+	How do you derive the FX forward rate from the FX spot rate?
+	
+	What are the upper and lower bounds for the price of a **European Put** option?
+	
+	Do you know any kind of option contract whose **vega** is negative?
+	
+	Consider a trade where the bank (B) pays Libor and the client (C) pays 12-2xLibor. Can you describe this trade in a more canonical way?
+
 
 
 ## Finance > Modelling
 
-An option trader marked the 1yr ATM volatility at 10% and the 2yr ATM at 15%. How do you price an 18mth option?
+	An option trader marked the 1yr ATM volatility at 10% and the 2yr ATM at 15%. How do you price an 18mth option?
 
-Assuming SPX500 volatility is 15%, what is the price of a 1yr ATM call option?
+	Assuming SPX500 volatility is 15%, what is the price of a 1yr ATM call option?
 
-Draw the default probability of a company as a function of the CDS.
+	Draw the default probability of a company as a function of the CDS.
 
-What is the result of PCA applied to an interest rate curve?
+	What is the result of PCA applied to an interest rate curve?
 
-You are being given a smile volatility curve, how do you derive the probability density function?
+	You are being given a smile volatility curve, how do you derive the probability density function?
 
-When modelling a commodity product, what is the convenience yield?
+	When modelling a commodity product, what is the convenience yield?
 
-What is the meaning of the SABR acronym?
+	What is the meaning of the SABR acronym?
 
-In a stochastic volatility model, what is the impact of correlation on risk-reversal?
+	In a stochastic volatility model, what is the impact of correlation on risk-reversal?
 
-'How is the VIX index calculated?
+	'How is the VIX index calculated?
 
-What are the applications of the **reflection principle** to pricing problems?
+	What are the applications of the **reflection principle** to pricing problems?
 
-Derive the smile adjustement of a digital option.', field:'Finance', expertise:'Modeling'},
+	Derive the smile adjustement of a digital option.
 
-How would you show the asset returns **lognormal** model is better than the simple **normal** one?
+	How would you show the asset returns **lognormal** model is better than the simple **normal** one?
 
-Your credit-risk department gave you the 1year rating transition matrix probability. How do you calculate the 3mth matrix?
+	Your credit-risk department gave you the 1year rating transition matrix probability. How do you calculate the 3mth matrix?
 
-What is the equation of the GARCH model?
+	What is the equation of the GARCH model?
 
-What is the purpose of the GJR extension of the GARCH model?
+	What is the purpose of the GJR extension of the GARCH model?
 
-	{text:'A trader pices a VarianceSwap with both a Local Volatility model and with a Stochastic Volatility model. Which gives the highest fair strike?', field:'Finance', expertise:'Modeling'},
-	{text:'For a digital option chart the **vega** across a spot ladder.', field:'Finance', expertise:'Modeling'},
-	{text:'A EURUSD OneTouch option with a trigger 1.40 trades at 30%. What is the delta of the 1.40 vanilla option?', field:'Finance', expertise:'Modeling'},
-	{text:'When working whith financial asset prices historical data. Which is the most likely to be observed; (a) auto-correlation or (b) heteroskedasticity', field:'Finance', expertise:'Modeling'},
-	{text:'A stock worth 100usd as of today yields a 5% dividend. What is your one year price forecast?', field:'Finance', expertise:'Modeling'},
-	{text:'When pricing an option using the numerical PDE method, what are the boundary conditions?', field:'Finance', expertise:'Modeling'},
-	{text:'When pricing a **cliquet** option, what is key in the model you chose?', field:'Finance', expertise:'Modeling'},
-	//{text:'Question about the Gamma ratio for two ATM options of different maturities', field:'Finance', expertise:'Modeling'},
-	//{text:'Question about the Vega ratio for two ATM options of different maturities', field:'Finance', expertise:'Modeling'},
-	{text:'In what way does the **Garman-Kohlhagen** model extends the Black-Scholes one?', field:'Finance', expertise:'Modeling'},
-	{text:'Why is the price of a european call option convex with respect to the strike level?', field:'Finance', expertise:'Modeling'},
-	{text:'How do you statically hedge an option whose payoff is P(S_T) using european calls only?', field:'Finance', expertise:'Modeling'},
-	{text:'What is the price of a perpetual American-style Put option?', field:'Finance', expertise:'Modeling'},
-	{text:'Why are **Gamma** and **Theta** of opposite sign? Can it be otherwise?', field:'Finance', expertise:'Modeling'},
-	{text:'A European Call option costs C today. What is the expected value of its price tomorrow?', field:'Finance', expertise:'Modeling'},
-	{text:'How many nodes are they in a re-combining binomial tree with N time-steps?', field:'Finance', expertise:'Modeling'},
+	A trader pices a VarianceSwap with both a Local Volatility model and with a Stochastic Volatility model. Which gives the highest fair strike?
+	
+	For a digital option chart the **vega** across a spot ladder.
+	
+	A EURUSD OneTouch option with a trigger 1.40 trades at 30%. What is the delta of the 1.40 vanilla option?
+	
+	When working whith financial asset prices historical data. Which is the most likely to be observed; (a) auto-correlation or (b) heteroskedasticity
+	
+	A stock worth 100usd as of today yields a 5% dividend. What is your one year price forecast?
+	
+	When pricing an option using the numerical PDE method, what are the boundary conditions?
+	
+	When pricing a **cliquet** option, what is key in the model you chose?
+	
+	Question about the Gamma ratio for two ATM options of different maturities
+	
+	Question about the Vega ratio for two ATM options of different maturities
+
+	In what way does the **Garman-Kohlhagen** model extends the Black-Scholes one?
+	
+	Why is the price of a european call option convex with respect to the strike level?
+	
+	How do you statically hedge an option whose payoff is P(S_T) using european calls only?
+	
+	What is the price of a perpetual American-style Put option?
+	
+	Why are **Gamma** and **Theta** of opposite sign? Can it be otherwise?
+	
+	A European Call option costs C today. What is the expected value of its price tomorrow?
+	
+	How many nodes are they in a re-combining binomial tree with N time-steps?
 
 
 
@@ -223,49 +250,49 @@ How do you define a **tracker**?
 
 ## Code > C++
 
-In C++, what is the difference between `int i, j=0; i=j++;` and `int i, j=0; i=++j;`?
+	In C++, what is the difference between `int i, j=0; i=j++;` and `int i, j=0; i=++j;`?
 
-In C++, what is the purpose of the `virtual` keyword?
+	In C++, what is the purpose of the `virtual` keyword?
 
-In C++, what are the different usages of the `const` keyword?
+	In C++, what are the different usages of the `const` keyword?
 
-In C++, what is the purpose of a **smart pointer**?
+	In C++, what is the purpose of a **smart pointer**?
 
-In C++, what is the STL?
+	In C++, what is the STL?
 
-In C++, what is the purpose of the `static` keyword?
+	In C++, what is the purpose of the `static` keyword?
 
-In C++, what is a template? What is the relevant syntax?
+	In C++, what is a template? What is the relevant syntax?
 
-In C++, what is the meaning of the `protected` keyword?
+	In C++, what is the meaning of the `protected` keyword?
 
-In C++, what is an `INLINE` function?
+	In C++, what is an `INLINE` function?
 
-What is an XLL file?
+	What is an XLL file?
 
-What is the purpose of the `cast` keyword?
+	What is the purpose of the `cast` keyword?
 
 	
 
 ## Code > C#
 
-In C#, what is the purpose of the `static` keyword?
+	In C#, what is the purpose of the `static` keyword?
 
-In C#, what is the purpose of the `ref` keyword?
+	In C#, what is the purpose of the `ref` keyword?
 
-In C#, what is the purpose of the `out` keyword?
+	In C#, what is the purpose of the `out` keyword?
 
-In C#, what is a template? What is the relevant syntax?
-	
-In C#, what is the meaning of the `protected` keyword?
+	In C#, what is a template? What is the relevant syntax?
+		
+	In C#, what is the meaning of the `protected` keyword?
 
-In C#, what is the `Func` keyword and how do you use it?
+	In C#, what is the `Func` keyword and how do you use it?
 
-In C#, what can you use **LINQ** for?
+	In C#, what can you use **LINQ** for?
 
-In C#, what can you use the `with` statement for?
+	In C#, what can you use the `with` statement for?
 
-In C#, what do you use the `=>` syntax for?
+	In C#, what do you use the `=>` syntax for?
 
 How is memory being managed with C#?', field:'IT', expertise:'C#'}, //Un garbage collector gére automatiquement la mémoire et libère les développeurs des tâches d'allocation et de libération manuelle de la mémoire occupée.
 	{text:'In C#, what are Singletons?', field:'IT', expertise:'C#'}, //Un type qui ne peux avoir qu’une seule instance par APP domaine
@@ -283,53 +310,63 @@ How is memory being managed with C#?', field:'IT', expertise:'C#'}, //Un garbage
 
 ## Code > Matlab
 
-'In MATLAB, what is the result of the following: `M = eye(4)`', field:'IT', expertise:'MATLAB'},
+	'In MATLAB, what is the result of the following: `M = eye(4)`
 
-In MATLAB, if `B = [1 , 2, 3, 4]` which of the following is valid and why: `R=B*B` or `R=B.*B`', field:'IT', expertise:'MATLAB'},
+	In MATLAB, if `B = [1 , 2, 3, 4]` which of the following is valid and why: `R=B*B` or `R=B.*B`
 
-In MATLAB, what are the `randi` and `randn` functions?', field:'IT', expertise:'MATLAB'},
+	In MATLAB, what are the `randi` and `randn` functions?
 
-In MATLAB, what is the syntax to get the value of the (2nd row, 5th column) element of a matrix M?', field:'IT', expertise:'MATLAB'},
+	In MATLAB, what is the syntax to get the value of the (2nd row, 5th column) element of a matrix M?
 
-In MATLAB, how can I set the value of the (2nd row, 5th column) element of a matrix M to be 0?', field:'IT', expertise:'MATLAB'},
+	In MATLAB, how can I set the value of the (2nd row, 5th column) element of a matrix M to be 0?
 
-In MATLAB, how do you extract the 5x5 bottom-right submatrix of a larger matrix M of unknown dimension?', field:'IT', expertise:'MATLAB'},
+	In MATLAB, how do you extract the 5x5 bottom-right submatrix of a larger matrix M of unknown dimension?
 
-	In MATLAB, How can you extract the 5th row of a matrix M?', field:'IT', expertise:'MATLAB'},
+	In MATLAB, How can you extract the 5th row of a matrix M?
 
-	In MATLAB, if M is a matrix, how can you get the sum of all the elements in its 3rd column', field:'IT', expertise:'MATLAB'},
+	In MATLAB, if M is a matrix, how can you get the sum of all the elements in its 3rd column
 
-	In MATLAB, how do you create a range of values between -10 and +10 with a 0.01 step size?', field:'IT', expertise:'MATLAB'},
+	In MATLAB, how do you create a range of values between -10 and +10 with a 0.01 step size?
 	
-	In MATLAB, how would you compute the sum of squares of each integer number ranging from 1 to 15', field:'IT', expertise:'MATLAB'},
+	In MATLAB, how would you compute the sum of squares of each integer number ranging from 1 to 15
 	
-	In MATLAB, how do you store your name, your age, your phone number into a single object?', field:'IT', expertise:'MATLAB'},
+	In MATLAB, how do you store your name, your age, your phone number into a single object?
 	
-	In MATLAB, if M is a matrix what is the syntax to get the **transpose** of M?', field:'IT', expertise:'MATLAB'},
+	In MATLAB, if M is a matrix what is the syntax to get the **transpose** of M?
 	
-	In a scientific software such as MATLAB, what is a **box plot** for?', field:'IT', expertise:'MATLAB'},
-	{text:'In MATLAB, what is the syntax to get the lowest value in matrix M?', field:'IT', expertise:'MATLAB'},
-	{text:'In MATLAB, what is the purpose of the `@` syntax?', field:'IT', expertise:'MATLAB'},
-	{text:'In MATLAB, within random vector `V = randn(100, 1)` how do you count the number of values above 0.5?', field:'IT', expertise:'MATLAB'},
+	In a scientific software such as MATLAB, what is a **box plot** for?
+	
+	In MATLAB, what is the syntax to get the lowest value in matrix M?
+	
+	In MATLAB, what is the purpose of the `@` syntax?
+	
+	In MATLAB, within random vector `V = randn(100, 1)` how do you count the number of values above 0.5?
 
 
 
 ## Code > Python
 
-What is a `pickle` for?', field:'IT', expertise:'Python'},
+	What is a `pickle` for?
 
-What is the difference between a `tuple` and a `list`?', field:'IT', expertise:'Python'},
+	What is the difference between a `tuple` and a `list`?
 
-What is the output of the `enumerate` function?', field:'IT', expertise:'Python'},
+	What is the output of the `enumerate` function?
 
-How do you get the number of element in a `list`?', field:'IT', expertise:'Python'},
-	{text:'What is the purpose of the `any` function?', field:'IT', expertise:'Python'},
-	{text:'How do you create a `list` of all even integers from 2 to 12?', field:'IT', expertise:'Python'},
-	{text:'In which context would you use the `with` statement?', field:'IT', expertise:'Python'},
-	{text:'What is the type of `4.1212`?', field:'IT', expertise:'Python'},
-	{text:'What is the result of `17 / 2 % 2 * 3**3`?', field:'IT', expertise:'Python'},
-	{text:'If L is a list, how do you extract the sub list from the 5th element to the last one?', field:'IT', expertise:'Python'},
-	{text:'Is this `a = [1,2,3,(),[],]` a valid command?', field:'IT', expertise:'Python'},
+	How do you get the number of element in a `list`?
+	
+	What is the purpose of the `any` function?
+	
+	How do you create a `list` of all even integers from 2 to 12?
+	
+	In which context would you use the `with` statement?
+	
+	What is the type of `4.1212`?
+	
+	What is the result of `17 / 2 % 2 * 3**3`?
+	
+	If L is a list, how do you extract the sub list from the 5th element to the last one?
+	
+	Is this `a = [1,2,3,(),[],]` a valid command?', field:'IT', expertise:'Python'},
 	//{text:'args and kwargs', field:'IT', expertise:'Python'},
 	//{text:'List comprehension', field:'IT', expertise:'Python'},
 	//{text:'Application and syntax of decorators', field:'IT', expertise:'Python'},
