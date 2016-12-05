@@ -1,6 +1,6 @@
 
 
-### FINANCE
+## FINANCE
 	
 	What is the meaning of RWA?
 
@@ -541,7 +541,9 @@
 	
 	What is the "core" part of the AIC and BIC Information Criteria?
 
-	
+
+
+## Questions found on the web
 
 // From: www.hyperink.com/Common-Goldman-Sales-And-Trading-Interview-Questions-b37a83
 
@@ -552,31 +554,35 @@
 	What is the difference between prepayment risk and default risk?
 	
 	What is the greatest dollar value in coins you can have in your hand without being able to make change for a dollar?,
+
+// http://www.proprofs.com/quiz-school/story.php?title=test-on-derivatives-cfa-level-1
 	
-	
-	/*
-	// http://www.proprofs.com/quiz-school/story.php?title=test-on-derivatives-cfa-level-1
-	1. 		What are the minimum values of an American-style and a European-style 3-month call option with a strike price of $90 on a non-dividend-paying stock trading at $96 if the risk-free rate is 3%?
+	What are the minimum values of an American-style and a European-style 3-month call option with a strike price of $90 on a non-dividend-paying stock trading at $96 if the risk-free rate is 3%?
 	A.	American: $6.00, European: $6.00
 	B.	American: $6.00, European: $5.62
 	C.	American: $6.62, European: $6.62
-	2. 		If the owner of a call option with a strike price of $35 finds the stock to be trading for $42 at expiration, then the option:
+	
+	If the owner of a call option with a strike price of $35 finds the stock to be trading for $42 at expiration, then the option:
 	A.	Expires worthless
 	B.	Will not be exercised
 	C.	Is worth $7 per share
-	3. 		An agreement by Microsoft to receive 6-month LIBOR & pay a fixed rate of 5% per annum every 6 months for 3 years on a notional principal of $10 million. What is the net cash flow in period 3 if 6-month LIBOR at start of period 3 is 5.5%?
+	
+	An agreement by Microsoft to receive 6-month LIBOR & pay a fixed rate of 5% per annum every 6 months for 3 years on a notional principal of $10 million. What is the net cash flow in period 3 if 6-month LIBOR at start of period 3 is 5.5%?
 	A.	$275,000
 	B.	$250,000
 	C.	$25,000
-	4. 		What is the option buyer's total profit or loss per share if a call option is purchased for a $5 premium, has a $50 exercise price, and the stock is valued at $53 at expiration?
+	
+	What is the option buyer's total profit or loss per share if a call option is purchased for a $5 premium, has a $50 exercise price, and the stock is valued at $53 at expiration?
 	A.	($5)
 	B.	($2)
 	C.	$3
-	5. 		A 90-day T-Bill Future is quoted price at 98. Calculate the delivery price
+	
+	A 90-day T-Bill Future is quoted price at 98. Calculate the delivery price
 	A.	$98
 	B.	$980,000
 	C.	$995,000
-	6. 		Which combination of positions will tend to protect the owner from downside risk?
+	
+	Which combination of positions will tend to protect the owner from downside risk?
 	A.	Buy the stock and buy a call option
 	B.	Sell the stock and buy a call option
 	C.	Buy the stock and buy a put option
@@ -584,44 +590,51 @@
 	A.	For both calls and puts an increase in the exercise price will cause an increase in the option price
 	B.	For both calls and puts an increase in the time to maturity will cause an increase in the option price
 	C.	For calls, but not for puts, an increase in the time to maturity will cause an increase in the option price
-	8. 		An FRA settles in 30 days • $1 million notional • Based on 90-day LIBOR • Forward rate of 5.5% • Actual 90-day LIBOR at settlement is 6.5% • Calculate the PV of the FRA
+	
+	An FRA settles in 30 days • $1 million notional • Based on 90-day LIBOR • Forward rate of 5.5% • Actual 90-day LIBOR at settlement is 6.5% • Calculate the PV of the FRA
 	A.	$2,453
 	B.	$2,460
 	C.	$2,463
-	9. 	European put-call parity says the difference in price for call options less put options, both with exercise price E and time to maturity T, is equal to the stock price:
+	
+	European put-call parity says the difference in price for call options less put options, both with exercise price E and time to maturity T, is equal to the stock price:
 	A.	Minus the future value of the exercise price
 	B.	Plus the future value of the exercise price
 	C.	Minus the present value of the exercise price
-	10. 	Find lower bound for European call X = $75, stock is trading at $73, RFR = 5%, 3 months expiry
+	
+	Find lower bound for European call X = $75, stock is trading at $73, RFR = 5%, 3 months expiry
 	A.	$3.5
 	B.	$3.8
 	C.	$3.9
-	*/
 
 
-	/*
-	// http://www.proprofs.com/quiz-school/story.php?title=test-on-portfolio-management-cfa-level-1
-	1. 		If two stocks have positive covariance, which of the following statements is TRUE?
+// http://www.proprofs.com/quiz-school/story.php?title=test-on-portfolio-management-cfa-level-1
+	
+	If two stocks have positive covariance, which of the following statements is TRUE?
 	A.	If one stock doubles in price, the other will also double in price
 	B.	The rates of return tend to move in the same direction relative to their individual means
 	C.	The two stocks will create a perfectly diversified portfolio
-	2. 		A basic assumption of the capital asset pricing model (CAPM) is that there are no transaction costs. If this assumption is relaxed, which of the following would be the least likely to occur?
+	
+	A basic assumption of the capital asset pricing model (CAPM) is that there are no transaction costs. If this assumption is relaxed, which of the following would be the least likely to occur?
 	A.	Diversification benefits will be realized up to the point that they offset transactions costs
 	B.	Each investor can have a unique view of a security market line
 	C.	All securities will plot very close to the security market line
-	3. 		Which of the following is NOT considered a constraint when preparing an investment policy statement?
+	
+	Which of the following is NOT considered a constraint when preparing an investment policy statement?
 	A.	Risk tolerance
 	B.	Time horizon
 	C.	Tax concerns
-	4. 		The expected rate of return is 2.5 times the 12% expected rate of return from the market. What is the beta if the risk-free rate is 6%?
+	
+	The expected rate of return is 2.5 times the 12% expected rate of return from the market. What is the beta if the risk-free rate is 6%?
 	A.	5
 	B.	4
 	C.	3
-	5. 		The manager of the Fullen Balanced Fund is putting together a report that breaks out the percentage of portfolio return that is explained by the target asset allocation, security selection, and tactical variations from the target, respectively. Which of the following sets of numbers was the most likely conclusion for the report?
+	
+	The manager of the Fullen Balanced Fund is putting together a report that breaks out the percentage of portfolio return that is explained by the target asset allocation, security selection, and tactical variations from the target, respectively. Which of the following sets of numbers was the most likely conclusion for the report?
 	A.	50%, 25%, 25%
 	B.	20%, 30%, 50%
 	C.	90%, 6%, 4%
-	6. 		Mike Palm, CFA, is an analyst with a large money management firm. Currently, Palm is considering the risk and return parameters associated with Alux, a small technology firm. After in depth analysis of the firm and the economic outlook, Palm estimates the following return probabilities:   If Palm's objective is to quantify the risk/return relationship for Alux using Markowitz portfolio theory, he will use which of the following as a measure of risk?
+	
+	Mike Palm, CFA, is an analyst with a large money management firm. Currently, Palm is considering the risk and return parameters associated with Alux, a small technology firm. After in depth analysis of the firm and the economic outlook, Palm estimates the following return probabilities:   If Palm's objective is to quantify the risk/return relationship for Alux using Markowitz portfolio theory, he will use which of the following as a measure of risk?
 	A.	Beta
 	B.	Standard deviation
 	C.	Semivariance
@@ -629,88 +642,106 @@
 	A.	Systematic risk
 	B.	Diversifiable risk
 	C.	Company-specific risk
-	8. 		An analyst has developed the following data for two companies, PNS Manufacturing (PNS) and InCharge Travel (InCharge). PNS has an expected return of 15 percent and a standard deviation of 18 percent. InCharge has an expected return of 11 percent and a standard deviation of 17 percent. PNS’s correlation with the market is 75 percent, while InCharge’s correlation with the market is 85 percent. If the market standard deviation is 22 percent, which of the following are the betas for PNS and InCharge?
+	
+	An analyst has developed the following data for two companies, PNS Manufacturing (PNS) and InCharge Travel (InCharge). PNS has an expected return of 15 percent and a standard deviation of 18 percent. InCharge has an expected return of 11 percent and a standard deviation of 17 percent. PNS’s correlation with the market is 75 percent, while InCharge’s correlation with the market is 85 percent. If the market standard deviation is 22 percent, which of the following are the betas for PNS and InCharge?
 	A.	Beta of PNS: 0.66; Beta of InCharge: 0.61
 	B.	Beta of PNS: 1.10; Beta of InCharge: 0.92
 	C.	Beta of PNS: 0.61; Beta of InCharge: 0.66
-	9. 		In a two-asset portfolio, reducing the correlation between the two assets moves the efficient frontier in which direction?
+	
+	In a two-asset portfolio, reducing the correlation between the two assets moves the efficient frontier in which direction?
 	A.	The frontier extends to the left, or northwest quadrant representing a reduction in risk while maintaining or enhancing portfolio returns
 	B.	The efficient frontier is stable unless return expectations change. If expectations change, the efficient frontier will extend to the upper right with little or no change in risk
 	C.	The efficient frontier is stable unless the asset’s expected volatility changes. This depends on each asset’s standard deviation
-	10. 	The expected market premium is 8%, with the risk-free rate at 7%. What is the expected rate of return on a stock with a beta of 1.3?
+	
+	The expected market premium is 8%, with the risk-free rate at 7%. What is the expected rate of return on a stock with a beta of 1.3?
 	A.	17.4%
 	B.	16.3%
 	C.	17.1%
-	11. 	Which of the following statements about risk and return is FALSE?
+	
+	Which of the following statements about risk and return is FALSE?
 	A.	Return objectives should be considered in conjunction with risk preferences
 	B.	Return objectives may be stated in percentages
 	C.	Return-only objectives provide a more concise and efficient way to measure performance for investment managers
-	14. 	If two stocks have positive co-relation, which of the following statements is TRUE?
+	
+	If two stocks have positive co-relation, which of the following statements is TRUE?
 	A.	If one stock shows 50% price variation, the other will move by 50%
 	B.	The rates of return will move in the same direction
 	C.	Portfolio of these two stocks only will be perfectly diversified portfolio
-	15. 	Developing an investment strategy is least likely to be based on I. Current and expected financial market II. Current and expected macro economic conditions
+	
+	Developing an investment strategy is least likely to be based on I. Current and expected financial market II. Current and expected macro economic conditions
 	A.	II only
 	B.	I Only
 	C.	None of the given
-	16. 	What is correct regarding capital preservation of a portfolio management
+	
+	What is correct regarding capital preservation of a portfolio management
 	A.	Nominal rate of return must exceed the rate of inflation
 	B.	Nominal rate of return must equal the inflation rate
 	C.	Nominal rate of return must be less than the rate of inflation
 	
-	18. 	What is most likely to be correct regarding policy statement outlines?
+	What is most likely to be correct regarding policy statement outlines?
 	A.	It states the return percentage to be given to the investors
 	B.	It defines investors’ objectives and constraints
 	C.	It limits the stocks, which portfolio manager will invest into
-	19. 	Calculate marginal tax rate if Equivalent taxable yield is = 9.5% and Municipal Yield is 6.2%
+	
+	Calculate marginal tax rate if Equivalent taxable yield is = 9.5% and Municipal Yield is 6.2%
 	A.	34.74%
 	B.	35.75%
 	C.	33.3%
-	20. 	Which of the following is true about Capital Preservation and Capital Appreciation strategy?
+	
+	Which of the following is true about Capital Preservation and Capital Appreciation strategy?
 	A.	Generally Capital preservation is for investors who seeks return over long term, whereas Capital appreciation is for investors who seeks return over short term
 	B.	Generally Capital preservation is for investors who seeks return over short term, whereas Capital appreciation is for investors who seeks return over long term
 	C.	Investors who opt for capital preservation or capital appreciation, time horizon is irrelevant
-	*/
 
-	/*
-	// http://www.proprofs.com/quiz-school/story.php?title=test-on-fixed-income-cfa-level-1
-	1. 		Which of the following is true about a bond with a deferred call provision?
+
+// http://www.proprofs.com/quiz-school/story.php?title=test-on-fixed-income-cfa-level-1
+	
+	Which of the following is true about a bond with a deferred call provision?
 	A.	It could be called at any time during the tenure of the bond
 	B.	Principal repayment can be deferred until it reaches maturity
 	C.	It could not be called right after the date of issue
-	2. 		All other things being equal, which one of the following bonds has the greatest volatility?
+	
+	All other things being equal, which one of the following bonds has the greatest volatility?
 	A.	10-year, 15% coupon
 	B.	10-year, 10% coupon
 	C.	3-year, 10% coupon
-	3. 		What is the worst-case profitability scenario for an investor who sold a call on the firm's stock for a premium of $10 and a strike price of $100?
+	
+	What is the worst-case profitability scenario for an investor who sold a call on the firm's stock for a premium of $10 and a strike price of $100?
 	A.	$90 per share profit
 	B.	$0 per share profit (break-even)
 	C.	Unlimited losses
-	4. 		One of the most commonly used yield spread measures is the nominal spread. Which of the following is least likely a limitation of nominal spread? The nominal spread assumes:
+	
+	One of the most commonly used yield spread measures is the nominal spread. Which of the following is least likely a limitation of nominal spread? The nominal spread assumes:
 	A.	An upward sloping yield curve
 	B.	All cash payments will be received in a prompt and timely manner
 	C.	All cash flows can be discounted at the same rate
-	5. 		Suppose an investor buys one share of stock and a put option on the stock. What will be the value of her investment on the final exercise date if the stock price is below the exercise price?
+	
+	Suppose an investor buys one share of stock and a put option on the stock. What will be the value of her investment on the final exercise date if the stock price is below the exercise price?
 	A.	The value of two shares of stock
 	B.	The value of one share of stock plus the exercise price
 	C.	The exercise price
-	6. 		Which of the following statement is least accurate?
+	
+	Which of the following statement is least accurate?
 	A.	A Conventional mortgage is an example of an amortizing loan
 	B.	Call provisions give the issuer the right and the obligation to retire all or a part of an issue prior to maturity
 	C.	Sinking fund provisions provide for the repayment of principal through a series of payments over the life of the issue
-	7. 		Which of the following statement is incorrect ?
+	
+	Which of the following statement is incorrect ?
 	A.	Accrued interest is the interest earned since the last coupon payment date and is paid by a bond buyer to a bond seller
 	B.	Clean price is the quoted price of the bond without accrued interest
 	C.	Full price refers to the quoted price without any accrued interest
-	8. 		An FRA settles in 30 days:- • $1 million notional • Based on 90-day LIBOR • Forward rate of 6% • Actual 90-day LIBOR at settlement is 6.5% Calculate the PV of the FRA
+	
+	An FRA settles in 30 days:- • $1 million notional • Based on 90-day LIBOR • Forward rate of 6% • Actual 90-day LIBOR at settlement is 6.5% Calculate the PV of the FRA
 	A.	$1,000
 	B.	$1,203
 	C.	$1,230
-	9. 		Suppose that a corporate bond and a government bond have equivalent characteristics. They both have a coupon rate of 10% paid annually and have two years remaining to maturity. Assuming a flat government term structure of 15% which of the following is a possible price of the corporate bond?
+	
+	Suppose that a corporate bond and a government bond have equivalent characteristics. They both have a coupon rate of 10% paid annually and have two years remaining to maturity. Assuming a flat government term structure of 15% which of the following is a possible price of the corporate bond?
 	A.	91.87
 	B.	83.17
 	C.	91.35
-	10. 	A firm has just issued $1,000 face value bonds with a coupon rate of 8%, paid semi-annually, and a maturity of 15 years. If the issue price for this bond is $785.50, what is the yield-to-maturity, stated annually?
+	
+	A firm has just issued $1,000 face value bonds with a coupon rate of 8%, paid semi-annually, and a maturity of 15 years. If the issue price for this bond is $785.50, what is the yield-to-maturity, stated annually?
 	A.	9.872 percent
 	B.	10.365 percent
 	C.	10.942 percent
@@ -718,58 +749,66 @@
 	A.	Yield to maturity at the time of the investment
 	B.	Prevailing yield to maturity at the time interest payments are received
 	C.	Coupon rate
-	12. 	Consider a $1,000 par value bond with a 7% annual coupon. The bond pays interest annually. There are 2 years remaining until maturity. What is the current yield on the bond assuming that the required return on the bond is 10%? Use simple compounding.
+	
+	Consider a $1,000 par value bond with a 7% annual coupon. The bond pays interest annually. There are 2 years remaining until maturity. What is the current yield on the bond assuming that the required return on the bond is 10%? Use simple compounding.
 	A.	0.1
 	B.	0.0738
 	C.	0.05
-	13. 	Ghanshyam group’s economics department has forecast that interest rates are going to change by 70 basis points. Vijay, a fixed-coupon bond portfolio manager with asset value of $120.00 million at Ghanshyam Group, forecasts that the portfolio’s value will increase by $2.2 million if interest rates fall and will decrease by $2.0 million if interest rates rise. Which of the following choices is closest to the portfolio’s effective duration?
+	
+	Ghanshyam group’s economics department has forecast that interest rates are going to change by 70 basis points. Vijay, a fixed-coupon bond portfolio manager with asset value of $120.00 million at Ghanshyam Group, forecasts that the portfolio’s value will increase by $2.2 million if interest rates fall and will decrease by $2.0 million if interest rates rise. Which of the following choices is closest to the portfolio’s effective duration?
 	A.	4.3
 	B.	3.6
 	C.	3.50
-	14. 	What bond type does the following price-yield curve represent and at which yield level is convexity equal to zero?
+	
+	What bond type does the following price-yield curve represent and at which yield level is convexity equal to zero?
 	A.	Callable bond with convexity close to zero at y2
 	B.	Callable bond with convexity close to zero at y1 and y3
 	C.	Puttable bond with convexity close to zero at y2
-	15. 	Which of the following five year bonds has the lowest interest rate sensitivity?
+	
+	Which of the following five year bonds has the lowest interest rate sensitivity?
 	A.	Floating rate bond
 	B.	Option-free 5% coupon bond
 	C.	Zero-coupon bond
-	16. 	A zero-coupon bond with a maturity of 10 years has an annual effective yield of 10%. What is the closest value for its modified duration?
+	
+	A zero-coupon bond with a maturity of 10 years has an annual effective yield of 10%. What is the closest value for its modified duration?
 	A.	10
 	B.	100
 	C.	9
-	17. 	With any other factors remaining unchanged, which of the following statements regarding bonds is not valid?
+
+	With any other factors remaining unchanged, which of the following statements regarding bonds is not valid?
 	A.	The price of a callable bond increases when interest rates increase
 	B.	Issuance of a callable bond is equivalent to a short position in a straight bond plus a long call option on the bond price
 	C.	The put feature in a puttable bond lowers its yield compared with the yield of an equivalent straight bond
-	18. 	A newly issued 8% bond that pays semiannual coupons has principal value of $1,000 with a bond life of 1 year and a yield of 6% per year. The Macaulay Duration of the bond is 0.9809 and convexity is 1.3780. If the yield changes from 6% to 6.5%, then the statement that best describes the actual bond price change is:
+	
+	A newly issued 8% bond that pays semiannual coupons has principal value of $1,000 with a bond life of 1 year and a yield of 6% per year. The Macaulay Duration of the bond is 0.9809 and convexity is 1.3780. If the yield changes from 6% to 6.5%, then the statement that best describes the actual bond price change is:
 	A.	Bond's actual price change is -4.83 and predicted price change according to formula that adjusts for both convexity and duration is -4.73
 	B.	Bond's actual price change is -5.052996 and predicted price change according to a formula that adjusts for both convexity and duration is -4.85
 	C.	Bond's actual price change is -4.83 and predicted price change according to a formula that adjusts for both convexity and duration is -4.83
-	19. 	Of the following bonds, which one will suffer the largest proportional price increase after a decrease in interest rates of 10 basis points? Assume the annual yield is 7%.
+	
+	Of the following bonds, which one will suffer the largest proportional price increase after a decrease in interest rates of 10 basis points? Assume the annual yield is 7%.
 	A.	A zero-coupon bond maturing in 5 years
 	B.	A coupon-paying bond, with Macaulay Duration of 3.81 years and convexity of 16.39 years squared
 	C.	A bond with a coupon of 10% maturing in 10 years that is immediately callable
-	20. 	A 10-year, 8% coupon bond currently sells for $90. A 10-year, 4% coupon bond current 1 sells for $80. What is the 10-year zero rate?
+	
+	A 10-year, 8% coupon bond currently sells for $90. A 10-year, 4% coupon bond current 1 sells for $80. What is the 10-year zero rate?
 	A.	5.7%
 	B.	6.4%
 	C.	3.57%
-	*/
 
 
-
+## Questions compiler by Jussieu students during interviews
 // http://www.proba.jussieu.fr/IFMA/documents/Questions%20entretiens.pdf
 	
 	Qu’est qu’un contrat forward ? Qu’est ce que le prix forward ?
 	Qu’est qu’une option lookback, une obligation, un swap de taux, un swaption, un caplet, un floorlet... 
 
-	Qu’est ce qu’un taux d’interet ? Un taux de repo ? Un dividende ? 
+	Qu’est ce qu’un taux taux de repo ? Un dividende ? 
 	
 	Qu’est ce que la volatilite ? La volatilite historique ? La volatilite implicite ?
 	
 	Quel est le lien entre la volatilite implicite et la volatilite historique ? 
 	
-	Qu’est ce que le smile de volatilite ? Pourquoi n’est-il pas plat ? Mais encore  
+	Qu’est ce que le smile de volatilite ? Pourquoi n’est-il pas plat ?
 	
 	Enoncez le theoreme de Girsanov. A quoi sert-il en finance ? 
 	
@@ -791,7 +830,9 @@
 	Qu’est-ce qu’une probabilite risque neutre ? A quoi sert-elle ? Quelle est le lien entre AOA et probabilite risque neutre ? 
 	Qu’est ce que la relation de parite Call-Put ? Est-ce toujours une egalite ? 
 
-	Sur quelle hypothèse repose la modelisation pour les modeles de taux ? Quelles sont ses consequences sur l’expression du prix d’un zero coupon ? Et sur la diffusion stochastique des zéro-coupon ? 
+	Sur quelle hypothèse repose la modelisation pour les modeles de taux ?
+	Quelles sont ses consequences sur l’expression du prix d’un zero coupon ?
+	Et sur la diffusion stochastique des zéro-coupon ? 
 	
 	Qu’est ce que le modèle de Vasicek ? Valorisez un zéro coupon dans ce modèle. Quel est le problème majeur de ce modèle ? Ses avantages ? 
 
@@ -811,25 +852,40 @@
 	
 	Quel lien peut-on faire entre le gamma d’un call et le delta d’une option digitale qui paie 1 si le sous-jacent dépasse à maturité le strike du call ? 
 	Est-il possible d’avoir une position thêta positif et gamma positif sur un sous-jacent ?
+	
 	Quel est le signe du vega d’un call et pourquoi ? D’un put et pourquoi ? Quelle est la forme du vega d’un call et pourquoi ? 
+	
 	Sur un call américain versant des dividendes et très dans la monnaie. Comment évolue la valeur intrinsèque en fonction du spot ? 
+	
 	Qu’est-ce que le gamma d’une option ? Comment évolue-t-il sur un call spread ? 
+	
 	On est short d’un call et on se delta-hedge. Le spot baisse et la volatilité monte, que fait-on ? 
+	
 	Qu’est ce que le « vega hedging » et comment le mettre en place ? 
+	
 	Faire une combinaison linéaire d’options vanilles permettant d’avoir un portefeuille gamma positif et vega négatif. 
 	 
-	Qu’est-ce qu’un Call spread? Tracez le payoff en fonction de la valeur du sous-jacent à 
-	maturité. Tracer le prix à un an de l’expiration, puis à une semaine. 
+	Qu’est-ce qu’un Call spread? Tracez le payoff en fonction de la valeur du sous-jacent à maturité.
+	Tracer le prix à un an de l’expiration, puis à une semaine. 
+	
 	On est long d’un call de strike 100. Le spot vaut 105 et on est delta hedgé. Quelle est approximativement la valeur du delta du call ? On apprend qu’il va y avoir une annonce importante sur le sous-jacent. Est-on toujours delta hedgé ? Si oui, pourquoi ? Si non, que faut-il faire pour se hedger ? 
 	Combien vaut le delta d’un call à la monnaie lorsque le sous jacent est un CPPI ? 
+	
 	Tracer le payoff d’une option digitale. On suppose pour simplifier que les taux sont nuls. Tracer le prix, le delta et le gamma (indépendamment de tout modèle). Tracer les mêmes courbes mais lorsqu’on est très proche de la maturité. 
 	On suppose que l’échéance est demain et qu’on est short de la digitale, que le strike est de 100. Quelle stratégie de couverture peut-on mettre en place avec seulement le sous jacent ? Quelle stratégie statique aurait-on pu mettre en place le jour de la vente de l’option en utilisant des calls et des puts? 
+	
 	On est short d’un call mono sous-jacent, et on se delta-hedge à la Black-Scholes : - Dans un monde Black Scholes, combien vaut le P&L final ? - Dans un monde Black Scholes, comment varie le P&L final si on se hedge en discret ? Quels termes interviennent dans la « dispersion » du P&L ? - Dans un monde NON Black-Scholes, mais toujours avec hedge BS, combien vaut le P&L final ? Et dans le cas multi sous-jacents ? 
-	On évalue notre prix et nos grecques sur un call américain dans un modèle continu sur une action versant des dividendes. Comment varie le vega (et autres sensibilités) lorsqu’on passe à un modèle discret ? 
+	
+	On évalue notre prix et nos grecques sur un call américain dans un modèle continu sur une action versant des dividendes. Comment varie le vega (et autres sensibilités) lorsqu’on passe à un modèle discret ?
+
 	Pourquoi dis-t-on d’un Call Spread qu’il est très sensible au smile de volatilité ? Le spot est à 100. Vous êtes long d’un Call Spread dans la monnaie (90/100). Quelle est le sens du vega sur votre position ? 
+	
 	Vous êtes long d’un butterfly. Quel est votre P&L si le sous-jacent fait l’objet de variations extrêmes ? Quelle anticipation faites-vous en termes de convexité ? 
+	
 	Vous êtes long d’un straddle. Êtes-vous gamma négatif ou positif ? Etes-vous acheteur ou vendeur de la volatilité ? 
+	
 	Si vous êtes long d’un straddle 1 an de strike 100% et de maturité 1 an et short d’un autre straddle de même strike et de maturité 2 ans. Quelle est votre stratégie en termes de volatilité ? 
+	
 	Considérons une option asiatique A de maturité 1 an dont la valeur du sous-jacent est une moyenne arithmétique sur toute la vie du produit. 
 	Considérons maintenant une autre option asiatique B de même maturité dont la valeur du strike est une moyenne arithmétique de différent strikes sur toute la vie du produit. 
 	Quelle option est la plus chère ? Justifiez.
@@ -843,11 +899,12 @@
 	Vous etes long d’une binaire qui paie 1 si le Best-Of des deux actions est superieur ou egal a 110.
 	Quel est le sens du gamma en considerant uniquement l’action A ?
 	Uniquement l’action B ? Quel est son sens maintenant en considerant a la fois A et B ? Pourquoi ce changement ?
-	
 
 	Quel est l’effet provoque par une injection de masse monetaire par une banque centrale ? 
+	
 	Quelle est l’influence d’une baisse des taux directeur sur le marche equity ?
-	Est-il possible que des taux d’interets soient negatifs ? 
+
 	Quels differents indicateurs de marche sont surveilles dans une salle de marche ? 
+	
 	Dans les accords de Bale III, combien une banque doit-elle detenir en fond propre ? 
 	
