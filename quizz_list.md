@@ -123,9 +123,12 @@
 	What is a **quanto** option?
 
 	What is a **reverse** barrier option? What is a **regular** barrier option?
-	{text:'What is an ABS?', field:'Finance', expertise:'Derivatives'},
-	{text:'What is an MBS?', field:'Finance', expertise:'Derivatives'},
-	{text:'What is a CDO?', field:'Finance', expertise:'Derivatives'},
+	
+	What is an ABS?
+	
+	What is an MBS?
+	
+	What is a CDO?
 
 	What is the specific feature of an **asian** option?
 	
@@ -219,32 +222,31 @@
 
 ## Finance > Portfolio
 
-How many factors are they in Fama-French model?
+	How many factors are they in Fama-French model?
 
-How do you define and compute the Alpha of a stock?
+	How do you define and compute the Alpha of a stock?
 
-How do you define and compute the Beta of a stock?'
+	How do you define and compute the Beta of a stock?'
 
-What is the Tracking Error of a portfolio?
+	What is the Tracking Error of a portfolio?
 
-How is defined the Sharpe Ratio of a portfolio?
+	How is defined the Sharpe Ratio of a portfolio?
 
-What is the Markovitz bullet?
+	What is the Markovitz bullet?
 
-How to you perform a Risk-Parity portfolio allocation?
+	How to you perform a Risk-Parity portfolio allocation?
 
-What is the aim of the OBPI and CPPI trading strategies?
+	What is the aim of the OBPI and CPPI trading strategies?
 
-How is defined the Treynor ratio of a portfolio
+	How is defined the Treynor ratio of a portfolio
 
-How do you define a **tracker**?
+	How do you define a **tracker**?
 
-	{text:'What is least likely to be correct regarding Systematic risk: (a) It is measured by alpha, (b) it cannot be reduced through diversification or (c) it is a risk of collapse of an entire financial market?', field:'Finance', expertise:'Portfolio'},
-	//{text:'Capital Asset Line', field:'Finance', expertise:'Portfolio'},
-	//{text:'CAPM model with numerical application', field:'Finance', expertise:'Portfolio'},
-	//{text:'Jensen alpha', field:'Finance', expertise:'Portfolio'},
-	{text:'Which of the following is the vertical axis intercept for the Capital Market Line: (a) Expected return on the market, (b) Risk-free rate or (c) Efficient frontier?', field:'Finance', expertise:'Portfolio'},
-	{text:'Investor’s expectation of additional return to balance for returns uncertainty is known as: (a) Risk premium, (b) Risk free rate or (c) Risk adjusted return?', field:'Finance', expertise:'Portfolio'},
+	What is least likely to be correct regarding Systematic risk: (a) It is measured by alpha, (b) it cannot be reduced through diversification or (c) it is a risk of collapse of an entire financial market?
+	
+	Which of the following is the vertical axis intercept for the Capital Market Line: (a) Expected return on the market, (b) Risk-free rate or (c) Efficient frontier?
+	
+	Investor’s expectation of additional return to balance for returns uncertainty is known as: (a) Risk premium, (b) Risk free rate or (c) Risk adjusted return?
 	
 
 
@@ -294,23 +296,13 @@ How do you define a **tracker**?
 
 	In C#, what do you use the `=>` syntax for?
 
-How is memory being managed with C#?', field:'IT', expertise:'C#'}, //Un garbage collector gére automatiquement la mémoire et libère les développeurs des tâches d'allocation et de libération manuelle de la mémoire occupée.
-	{text:'In C#, what are Singletons?', field:'IT', expertise:'C#'}, //Un type qui ne peux avoir qu’une seule instance par APP domaine
-	//{text:'Definition d une Interface', field:'IT', expertise:'C#'}, //Décrit un contrat fonctionnel sans implémentation
-	//{text:'Definition d une methode generique', field:'IT', expertise:'C#'}, //Une méthode paramétré par un type et applicable à ntype.
-	//{text:'What is the purpose of the String builder?', field:'IT', expertise:'C#'}, //Classe qui permet de construire des chaine de caractére en minisant le nombre de chaine intermediaire
-	//C++/C#/Java //{text:'Definition du Polymorphisme'}, //Permettre à un même code d'être utilisé avec différents types, (ce qui permet des implémentations plus abstraites et générales)
-	//C++/C#/Java //{text:'Definition de l heritage'}, //Concept fondamental de la programmation orientée objet, principe fondé sur des classes dont les « filles » héritent des caractéristiques de leur(s) « mère(s) ».
-	//C++/C#/Java //{text:'Qu est ce qu un constructeur/destructeur'}, //Constructor : Methode de classe appellé lors de la creation de la classe, destructor : Methode appellé lors de la destruction de la classe
-	//C++/C#/Java //{text:'Qu est ce qu une classe abstraite'}, //Une classe qui ne peux être instancier :  classe destinée à être uniquement une classe de base d'autres classes.
-	//C++/C#/Java //{text:'Qu est ce qu une fonction virtuel'}, // une fonction virtuelle est une fonction définie dans une classe (méthode) qui est destinée à être redéfinie dans les classes qui en hérite
-	//C#/Java //Qu est ce qu un Dictionnaire //Un dictionnaire est une collection de paires clef/valeur, chaque clef étant unique
-	//C++/C#/Java //{text:'Que veux dire passe par reference vs passe par valeur'}, //Par Valeur (une copy est faite puis détruite à la fin de la fonction), par Référence (On passe l’@ mémoire de la valeur, La donnée peux donc être modifié par la fonction)
+	How is memory being managed with C#?
+
 
 
 ## Code > Matlab
 
-	'In MATLAB, what is the result of the following: `M = eye(4)`
+	In MATLAB, what is the result of the following: `M = eye(4)`
 
 	In MATLAB, if `B = [1 , 2, 3, 4]` which of the following is valid and why: `R=B*B` or `R=B.*B`
 
@@ -366,98 +358,183 @@ How is memory being managed with C#?', field:'IT', expertise:'C#'}, //Un garbage
 	
 	If L is a list, how do you extract the sub list from the 5th element to the last one?
 	
-	Is this `a = [1,2,3,(),[],]` a valid command?', field:'IT', expertise:'Python'},
-	//{text:'args and kwargs', field:'IT', expertise:'Python'},
-	//{text:'List comprehension', field:'IT', expertise:'Python'},
-	//{text:'Application and syntax of decorators', field:'IT', expertise:'Python'},
-	//{text:'Lambda function', field:'IT', expertise:'Python'},
-	//{text:'Function "map" usage and syntax', field:'IT', expertise:'Python'},
-
-
-	{text:'What do you know about numerical schemes to solve PDE in TxX space?', field:'IT', expertise:'Numerical'},
-	{text:'What do you know about numerical schemes to solve PDE in TxXxY space?', field:'IT', expertise:'Numerical'},
-	{text:'How do you improve the performance of Monte-Carlo simulations?', field:'IT', expertise:'Numerical'},
-	{text:'What is a Low-Discrepancy sequence?', field:'IT', expertise:'Numerical'},
-	{text:'What is the Sobol sequence useful for?', field:'IT', expertise:'Numerical'},
-	{text:'What is the complexity of a tridiagonal system solver? What is the name of the algorihtm?', field:'IT', expertise:'Numerical'},
-	{text:'You are being provided with a gaussian-law random simulator. How do you simulate two correlated variables?', field:'IT', expertise:'Numerical'},
-	{text:'You are being provided with a uniform-law random simulator. How do you simulate a gaussian variable?', field:'IT', expertise:'Numerical'},
-	{text:'Give an example function for which a Newton-root-solver method would fail to converge.', field:'IT', expertise:'Numerical'},
-	{text:'In the programming language of your choice, how do evaluate P(X) = 3X^4 + 2X^3 - X^2 + X.', field:'IT', expertise:'Numerical'},
-	{text:'What is **Cholesky** algorithm? What is its application in finance?', field:'IT', expertise:'Numerical'},
-	//{text:'Comment Simuler un mouvement brownien ? Un processus de poisson ?', field:'IT', expertise:'Numerical'},
-	//{text:'Borwnian Bridge', field:'IT', expertise:'Numerical'},
+	Is this `a = [1,2,3,(),[],]` a valid command?
 	
-
-	{text:'What is the derivative of the **ArcSin** function?', field:'Analytics', expertise:'Calculus'},
-	{text:'What is the derivative of the **f(x)=x^x** function?', field:'Analytics', expertise:'Calculus'},
-	{text:'What is the limit as x goes to infinity of the **f(x)=sqrt(x*x-x)-x** function?', field:'Analytics', expertise:'Calculus'},
-	{text:'Solve for x such that x^x^x^...^x=2.', field:'Analytics', expertise:'Calculus'},
-
-
-	{text:'What is the density function of the log-normal law?', field:'Analytics', expertise:'Probability'},
-	{text:'Let X be a random law. What is the characteristic function of X?', field:'Analytics', expertise:'Probability'},
-	{text:'Write down the equation of an Ornstein-Uhlenbeck process?', field:'Analytics', expertise:'Probability'},
-	{text:'If B(t) denotes a brownian process, calculate Var(B(t)).', field:'Analytics', expertise:'Probability'},
-	{text:'Write down the Ito lemma.', field:'Analytics', expertise:'Probability'},
-	{text:'Write down Bayes theorem.', field:'Analytics', expertise:'Probability'},
-	{text:'What is Doob s Optional Stopping Theorem?', field:'Analytics', expertise:'Probability'},
-	{text:'In stochastic calculus, what is the reflection principle?', field:'Analytics', expertise:'Probability'},
-	{text:'What is an affine process?', field:'Analytics', expertise:'Probability'},
-	{text:'What is the Milstein scheme?', field:'Analytics', expertise:'Probability'},
-	{text:'What is the Feller condition?', field:'Analytics', expertise:'Probability'},
-	{text:'What is a stationary process?', field:'Analytics', expertise:'Probability'},
-	{text:'If X follows a normal distribution, how much is E(exp(X))?', field:'Analytics', expertise:'Probability'},
-	{text:'What are the properties of a stationary process?', field:'Analytics', expertise:'Probability'},
+	Meaning of : args and kwargs
 	
+	List comprehension : explain
 
-	{text:'You are playing a game of dice with a friend. The game ends when a player throw a six. You start first. What are your chances?', field:'Analytics', expertise:'Puzzle'},
-	{text:'In a game of dice you can throw the dice up to 3 times. Your payoff is the last number you got. How much are you willing to pay?', field:'Analytics', expertise:'Puzzle'},
-	{text:'On Earth surface, show there are always pairs of diametrically oposite points with identical temperature.', field:'Analytics', field:'Analytics', expertise:'Puzzle'},
-	{text:'A (10x10x10) cube is made up of small cubes (1x1x1). If all of the small cubes with a surface on the exterior were removed, how many small cubes would be left?', field:'Analytics', expertise:'Puzzle'},
-	{text:'What is the probability that the 1st business day of a month falls on a Monday?', field:'Analytics', expertise:'Puzzle'},
-	{text:'The fair value of a book is $5 today, and it will be worth either $6 or $1 tomorrow. What is the probability that it will be worth $1 tomorrow?', field:'Analytics', expertise:'Puzzle'},
-	{text:'You walk one mile south, one mile east and then one mile north to end up where you started. Where are you?', field:'Analytics', expertise:'Puzzle'},
-	{text:'Can the mean of two consecutive prime numbers be a prime number too?', field:'Analytics', expertise:'Puzzle'},
-	{text:'You have 7 identical balls and an 8-th one that is heavier but looks similar. What is your best strategy to identify the heavy ball using a scale?', field:'Analytics', expertise:'Puzzle'},
+	Application and syntax of decorators
+
+	Lambda function : explain
 	
-	{text:'What is a Random-Walk process?', field:'Analytics'},
+	Function "map" usage and syntax
+
+
+
+## Math > Numerical algo
+
+	What do you know about numerical schemes to solve PDE in TxX space?
 	
-	{text:'How much is the **skewness** of a t-distribution?', field:'Analytics', expertise:'Statistics'},
-	{text:'What is the Maximum Likelihood method?', field:'Analytics', expertise:'Statistics'},
-	{text:'The linear model `Y = a + bX + error` is estimated by OLS and its Rsquare is found to be 75%. What does if mean?', field:'Analytics', expertise:'Statistics'},
-	{text:'What do you know about the Durbin-Watson statistic', field:'Analytics', expertise:'Statistics'},
-	{text:'What do you know about the Breusch-Godfrey test?', field:'Analytics', expertise:'Statistics'},
-	{text:'What do you know about the Jarque-Berra test?', field:'Analytics', expertise:'Statistics'},
-	{text:'Under what conditions can you conclude the OLS is BLUE?', field:'Analytics', expertise:'Statistics'},
-	{text:'After running an OLS you have to test an hypothesis on a single parameter. What test do you perform?', field:'Analytics', expertise:'Statistics'},
-	{text:'After running an OLS you have to test joint hypotheses on its parameters. What test do you perform?', field:'Analytics', expertise:'Statistics'},
-	{text:'What does the graph of a t-distribution look like?', field:'Analytics', expertise:'Statistics'},
-	{text:'What is the link between the t-distribution and the N(0,1) distrbution?', field:'Analytics', expertise:'Statistics'},
-	{text:'You are being asked to run an ADF for process X(t). What is the purpose?', field:'Analytics', expertise:'Statistics'},
-	{text:'What is the difference between the Dickey-Fuller and the ADF tests?', field:'Analytics', expertise:'Statistics'},
-	{text:'What is the difference between the ADF and KPSS tests?', field:'Analytics', expertise:'Statistics'},
-	{text:'What is the purpose of the Ljung-Box test?', field:'Analytics', expertise:'Statistics'},
-	{text:'For an AR process your favorite software plotted the PACF chart. What do you observe?', field:'Analytics', expertise:'Statistics'},
-	{text:'How much is the **kurtosis** of the standard gaussian distribution?', field:'Analytics', expertise:'Statistics'},
-	{text:'To perform the ADF test for X(t) you have to estimate an regression with an OLS.  a) What will be the explained variable?  b) What will be the explanatory variables?  c) Explain the H0 of the ADF using "words" only.  d) Express the H0 with an "equality".', field:'Analytics', expertise:'Statistics'},
-	{text:'What is the difference between an ACF and a PACF?', field:'Analytics', expertise:'Statistics'},
-	{text:'What is the meaning of "the OLS is BLUE"?', field:'Analytics', expertise:'Statistics'},
-	{text:'What is a t-distribution with an infinite degree of freedom?', field:'Analytics', expertise:'Statistics'},
-	{text:'After running an OLS a software reports the following: SSExplained=14 and SSResidual=6. What is the model Rsquare?', field:'Analytics', expertise:'Statistics'},
-	{text:'When investigating heteroskedasticity in a linear regression involving time-series, which test is the most appropriate ; a) White or b) Engle?', field:'Analytics', expertise:'Statistics'},
-	{text:'Two analysts worked on modeling the price of Oil and reported in their findings summary Information Criteria of -7 and -8. Which seems to be the most promising?', field:'Analytics', expertise:'Statistics'},
-	//{text:'What is the LM test?', field:'Analytics', expertise:'Statistics'},
-	{text:'What are requirement for a time-serie to be stationary?', field:'Analytics', expertise:'Statistics'},
-	{text:'How is distributed the LM-statistic?', field:'Analytics', expertise:'Statistics'},
-	{text:'An analyst ran a Jarque-Berra test and its software reports a very small JB statistics. What can he conclude from this?', field:'Analytics', expertise:'Statistics'},
-	//{text:'To charaterize an F-distribution you need 2 different DoF parameters. What is the purpose of the 1st one?', field:'Analytics', expertise:'Statistics'},
-	//{text:'Outlier detection, Cook and Leverage', field:'Analytics', expertise:'Statistics'},
-	//{text:'Ramsey test', field:'Analytics', expertise:'Statistics'},
-	//{text:'Qestion about multi-colinearity and or Klein rule', field:'Analytics', expertise:'Statistics'},
-	//{text:'Give a number of observation, a number of parameter and a number of hypothesis and ask the DOF for various tests', field:'Analytics', expertise:'Statistics'},
-	//While performing the ARCH test a students reported LM = -4.5. What do you conclude?
-	//{text:'What is the "core" part of the AIC and BIC Information Criteria?', field:'Analytics'},
+	What do you know about numerical schemes to solve PDE in TxXxY space?
+	
+	How do you improve the performance of Monte-Carlo simulations?
+	
+	What is a Low-Discrepancy sequence?
+	
+	What is the Sobol sequence useful for?
+	
+	What is the complexity of a tridiagonal system solver? What is the name of the algorihtm?
+	
+	You are being provided with a gaussian-law random simulator. How do you simulate two correlated variables?
+	
+	You are being provided with a uniform-law random simulator. How do you simulate a gaussian variable?
+	
+	Give an example function for which a Newton-root-solver method would fail to converge.
+	
+	In the programming language of your choice, how do evaluate P(X) = 3X^4 + 2X^3 - X^2 + X.
+
+	What is **Cholesky** algorithm? What is its application in finance?
+	
+	How to simulate a Brownian process ? A Poisson process ?
+
+	How to simulate a Brownian Bridge
+
+
+
+## Math > Calculus
+
+	What is the derivative of the **ArcSin** function?
+	
+	What is the derivative of the **f(x)=x^x** function?
+	
+	What is the limit as x goes to infinity of the **f(x)=sqrt(x*x-x)-x** function?
+	
+	Solve for x such that x^x^x^...^x=2.
+
+
+
+## Math > Probability
+
+	What is the density function of the log-normal law?
+	
+	Let X be a random law. What is the characteristic function of X?
+	
+	Write down the equation of an Ornstein-Uhlenbeck process?
+	
+	If B(t) denotes a brownian process, calculate Var(B(t)).
+	
+	Write down the Ito lemma.
+	
+	Write down Bayes theorem.
+	
+	What is Doob s Optional Stopping Theorem?
+	
+	In stochastic calculus, what is the reflection principle?
+	
+	What is an affine process?
+	
+	What is the Milstein scheme?
+
+	What is the Feller condition?
+
+	What is a stationary process?
+
+	If X follows a normal distribution, how much is E(exp(X))?
+
+	What are the properties of a stationary process?
+
+	What is a Random-Walk process?
+
+
+
+## Math > Puzzles
+
+	You are playing a game of dice with a friend. The game ends when a player throw a six. You start first. What are your chances?
+	
+	In a game of dice you can throw the dice up to 3 times. Your payoff is the last number you got. How much are you willing to pay?
+	
+	On Earth surface, show there are always pairs of diametrically oposite points with identical temperature.
+	
+	A (10x10x10) cube is made up of small cubes (1x1x1). If all of the small cubes with a surface on the exterior were removed, how many small cubes would be left?
+	
+	What is the probability that the 1st business day of a month falls on a Monday?
+	
+	The fair value of a book is $5 today, and it will be worth either $6 or $1 tomorrow. What is the probability that it will be worth $1 tomorrow?
+	
+	You walk one mile south, one mile east and then one mile north to end up where you started. Where are you?
+	
+	Can the mean of two consecutive prime numbers be a prime number too?
+	
+	You have 7 identical balls and an 8-th one that is heavier but looks similar. What is your best strategy to identify the heavy ball using a scale?
+
+
+
+## Math > Statistics
+
+	How much is the **skewness** of a t-distribution?
+	
+	What is the Maximum Likelihood method?
+	
+	The linear model `Y = a + bX + error` is estimated by OLS and its Rsquare is found to be 75%. What does if mean?
+	
+	What do you know about the Durbin-Watson statistic
+	
+	What do you know about the Breusch-Godfrey test?
+	
+	What do you know about the Jarque-Berra test?
+	
+	Under what conditions can you conclude the OLS is BLUE?
+	
+	After running an OLS you have to test an hypothesis on a single parameter. What test do you perform?
+	
+	After running an OLS you have to test joint hypotheses on its parameters. What test do you perform?
+	
+	What does the graph of a t-distribution look like?
+	
+	What is the link between the t-distribution and the N(0,1) distrbution?
+	
+	You are being asked to run an ADF for process X(t). What is the purpose?
+	
+	What is the difference between the Dickey-Fuller and the ADF tests?
+	
+	What is the difference between the ADF and KPSS tests?
+	
+	What is the purpose of the Ljung-Box test?
+	
+	For an AR process your favorite software plotted the PACF chart. What do you observe?
+	
+	How much is the **kurtosis** of the standard gaussian distribution?
+	
+	To perform the ADF test for X(t) you have to estimate an regression with an OLS.  a) What will be the explained variable?  b) What will be the explanatory variables?  c) Explain the H0 of the ADF using "words" only.  d) Express the H0 with an "equality".
+
+	What is the difference between an ACF and a PACF?
+
+	What is the meaning of "the OLS is BLUE"?
+
+	What is a t-distribution with an infinite degree of freedom?
+
+	After running an OLS a software reports the following: SSExplained=14 and SSResidual=6. What is the model Rsquare?
+	
+	When investigating heteroskedasticity in a linear regression involving time-series, which test is the most appropriate ; a) White or b) Engle?
+	
+	Two analysts worked on modeling the price of Oil and reported in their findings summary Information Criteria of -7 and -8. Which seems to be the most promising?
+
+	What is the LM test?
+	
+	What are requirement for a time-serie to be stationary?
+	
+	How is distributed the LM-statistic?
+	
+	An analyst ran a Jarque-Berra test and its software reports a very small JB statistics. What can he conclude from this?
+
+	To charaterize an F-distribution you need 2 different DoF parameters. What is the purpose of the 1st one?
+
+	Outlier detection, Cook and Leverage: what do you know about this?
+
+	While performing the ARCH test a students reported LM = -4.5. What do you conclude?
+	
+	What is the "core" part of the AIC and BIC Information Criteria?
 
 	
 
