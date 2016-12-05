@@ -276,7 +276,7 @@
 
 	
 
-## Code > C#
+## Code > Csharp
 
 	In C#, what is the purpose of the `static` keyword?
 
@@ -468,6 +468,11 @@
 	
 	You have 7 identical balls and an 8-th one that is heavier but looks similar. What is your best strategy to identify the heavy ball using a scale?
 
+	I have two coins, one of which is double-headed and one of which is normal. You randomly pick one and flip it 10 times and get 10 heads. What is the probability that you chose the double-headed coin?
+	
+	You are standing outside a 100-story building holding two identical glass spheres and know that either sphere would shatter upon hitting the ground if dropped from the roof, but would not necessarily shatter if dropped from the first story. What is the least number of drops needed to guarantee that you have identified the lowest story from which you can drop the spheres without them shattering?
+	
+	You have an object whose weight is an integer value somewhere between 1 and 100 and a balancing scale. What is the fewest number of weights you need to be guaranteed that you can correctly identify the weight of the object?
 
 
 ## Math > Statistics
@@ -538,20 +543,15 @@
 
 	
 
-	// From: www.hyperink.com/Common-Goldman-Sales-And-Trading-Interview-Questions-b37a83
-	{text:'I buy a 7 year par bond paying 8% annual. What is the YTM? If I wait 1 year and sell it at a YTM of 7%, how much money do I have?', field:'Finance'},
-	{text:'I have a 10 year 6% bond. What is the maximum price this bond could ever reach? Why?', field:'Finance'},
-	{text:'The 5 year interest rate is 5% and the 10 year rate is 7%. What is the 5 year forward rate?', field:'Finance'},
-	{text:'Do you think the stock market is efficient (in an EMH sense)?', field:'Finance'},
-	//{text:'How do you calculate VaR?'},
-	{text:'What is the difference between prepayment risk and default risk?', field:'Finance'},
+// From: www.hyperink.com/Common-Goldman-Sales-And-Trading-Interview-Questions-b37a83
+
+	I buy a 7 year par bond paying 8% annual. What is the YTM? If I wait 1 year and sell it at a YTM of 7%, how much money do I have?
+	I have a 10 year 6% bond. What is the maximum price this bond could ever reach? Why?
+	The 5 year interest rate is 5% and the 10 year rate is 7%. What is the 5 year forward rate?
+	Do you think the stock market is efficient (in an EMH sense)?
+	What is the difference between prepayment risk and default risk?
 	
-	{text:'What is the greatest dollar value in coins you can have in your hand without being able to make change for a dollar?'},
-	
-	
-	{text:'I have two coins, one of which is double-headed and one of which is normal. You randomly pick one and flip it 10 times and get 10 heads. What is the probability that you chose the double-headed coin?'},
-	//{text:'You are standing outside a 100-story building holding two identical glass spheres and know that either sphere would shatter upon hitting the ground if dropped from the roof, but would not necessarily shatter if dropped from the first story. What is the least number of drops needed to guarantee that you have identified the lowest story from which you can drop the spheres without them shattering?'},
-	//{text:'You have an object whose weight is an integer value somewhere between 1 and 100 and a balancing scale. What is the fewest number of weights you need to be guaranteed that you can correctly identify the weight of the object?'},
+	What is the greatest dollar value in coins you can have in your hand without being able to make change for a dollar?,
 	
 	
 	/*
@@ -756,8 +756,10 @@
 	C.	3.57%
 	*/
 
-	/*
-	// http://www.proba.jussieu.fr/IFMA/documents/Questions%20entretiens.pdf
+
+
+// http://www.proba.jussieu.fr/IFMA/documents/Questions%20entretiens.pdf
+	
 	Qu’est qu’un contrat forward ? Qu’est ce que le prix forward ?
 	Qu’est qu’une option lookback, une obligation, un swap de taux, un swaption, un caplet, un floorlet... 
 
@@ -783,9 +785,7 @@
 	Dans un modele a volatilite stochastique sur un index classique, comment évolue le skew de volatilité implicite lorsque la corrélation volatilité/sous-jacent devient encore plus négative ? Lorsque la vovol augmente ? Et pour la volatilité implicite à la monnaie ?
 
 	Quelle est le signe de la sensibilite a la correlation sur une option sur un panier ?
-	*/
 
-	/*
 	Qu’est-ce que l’hypothese d’AOA ? Pourquoi fait-on cette hypothese ? Est-elle realiste avec le marche ? 
 	Quelles hypotheses fait-on dans la plupart des modeles ? Y-a-t-il un lien avec l’AOA ? 
 	Qu’est-ce qu’une probabilite risque neutre ? A quoi sert-elle ? Quelle est le lien entre AOA et probabilite risque neutre ? 
@@ -810,51 +810,44 @@
 	Quel lien y a-t-il entre le gamma et le vega d’un call ? D’une option en général ? 
 	
 	Quel lien peut-on faire entre le gamma d’un call et le delta d’une option digitale qui paie 1 si le sous-jacent dépasse à maturité le strike du call ? 
-	 Est-il possible d’avoir une position thêta positif et gamma positif sur un sous-jacent ? 
-	 Quel est le signe du vega d’un call et pourquoi ? D’un put et pourquoi ? Quelle est la forme 
-	du vega d’un call et pourquoi ? 
+	Est-il possible d’avoir une position thêta positif et gamma positif sur un sous-jacent ?
+	Quel est le signe du vega d’un call et pourquoi ? D’un put et pourquoi ? Quelle est la forme du vega d’un call et pourquoi ? 
 	Sur un call américain versant des dividendes et très dans la monnaie. Comment évolue la valeur intrinsèque en fonction du spot ? 
-	 Qu’est-ce que le gamma d’une option ? Comment évolue-t-il sur un call spread ? 
-	 On est short d’un call et on se delta-hedge. Le spot baisse et la volatilité monte, que fait-on ? 
-	 Qu’est ce que le « vega hedging » et comment le mettre en place ? 
-	 Faire une combinaison linéaire d’options vanilles permettant d’avoir un portefeuille gamma positif et vega négatif. 
+	Qu’est-ce que le gamma d’une option ? Comment évolue-t-il sur un call spread ? 
+	On est short d’un call et on se delta-hedge. Le spot baisse et la volatilité monte, que fait-on ? 
+	Qu’est ce que le « vega hedging » et comment le mettre en place ? 
+	Faire une combinaison linéaire d’options vanilles permettant d’avoir un portefeuille gamma positif et vega négatif. 
 	 
 	Qu’est-ce qu’un Call spread? Tracez le payoff en fonction de la valeur du sous-jacent à 
 	maturité. Tracer le prix à un an de l’expiration, puis à une semaine. 
 	On est long d’un call de strike 100. Le spot vaut 105 et on est delta hedgé. Quelle est approximativement la valeur du delta du call ? On apprend qu’il va y avoir une annonce importante sur le sous-jacent. Est-on toujours delta hedgé ? Si oui, pourquoi ? Si non, que faut-il faire pour se hedger ? 
-	 Combien vaut le delta d’un call à la monnaie lorsque le sous jacent est un CPPI ? 
+	Combien vaut le delta d’un call à la monnaie lorsque le sous jacent est un CPPI ? 
 	Tracer le payoff d’une option digitale. On suppose pour simplifier que les taux sont nuls. Tracer le prix, le delta et le gamma (indépendamment de tout modèle). Tracer les mêmes courbes mais lorsqu’on est très proche de la maturité. 
 	On suppose que l’échéance est demain et qu’on est short de la digitale, que le strike est de 100. Quelle stratégie de couverture peut-on mettre en place avec seulement le sous jacent ? Quelle stratégie statique aurait-on pu mettre en place le jour de la vente de l’option en utilisant des calls et des puts? 
-	 On est short d’un call mono sous-jacent, et on se delta-hedge à la Black-Scholes : - Dans un monde Black Scholes, combien vaut le P&L final ? - Dans un monde Black Scholes, comment varie le P&L final si on se hedge en discret ? Quels termes interviennent dans la « dispersion » du P&L ? - Dans un monde NON Black-Scholes, mais toujours avec hedge BS, combien vaut le P&L final ? Et dans le cas multi sous-jacents ? 
-	 On évalue notre prix et nos grecques sur un call américain dans un modèle continu sur une action versant des dividendes. Comment varie le vega (et autres sensibilités) lorsqu’on passe à un modèle discret ? 
-	 Pourquoi dis-t-on d’un Call Spread qu’il est très sensible au smile de volatilité ? Le spot est à 100. Vous êtes long d’un Call Spread dans la monnaie (90/100). Quelle est le sens du vega sur votre position ? 
-	 Vous êtes long d’un butterfly. Quel est votre P&L si le sous-jacent fait l’objet de variations extrêmes ? Quelle anticipation faites-vous en termes de convexité ? 
-	 V ous êtes long d’un straddle. Êtes-vous gamma négatif ou positif ? Etes-vous acheteur ou vendeur de la volatilité ? 
-	 Si vous êtes long d’un straddle 1 an de strike 100% et de maturité 1 an et short d’un autre straddle de même strike et de maturité 2 ans. Quelle est votre stratégie en termes de volatilité ? 
-	 Considérons une option asiatique A de maturité 1 an dont la valeur du sous-jacent est une moyenne arithmétique sur toute la vie du produit. 
+	On est short d’un call mono sous-jacent, et on se delta-hedge à la Black-Scholes : - Dans un monde Black Scholes, combien vaut le P&L final ? - Dans un monde Black Scholes, comment varie le P&L final si on se hedge en discret ? Quels termes interviennent dans la « dispersion » du P&L ? - Dans un monde NON Black-Scholes, mais toujours avec hedge BS, combien vaut le P&L final ? Et dans le cas multi sous-jacents ? 
+	On évalue notre prix et nos grecques sur un call américain dans un modèle continu sur une action versant des dividendes. Comment varie le vega (et autres sensibilités) lorsqu’on passe à un modèle discret ? 
+	Pourquoi dis-t-on d’un Call Spread qu’il est très sensible au smile de volatilité ? Le spot est à 100. Vous êtes long d’un Call Spread dans la monnaie (90/100). Quelle est le sens du vega sur votre position ? 
+	Vous êtes long d’un butterfly. Quel est votre P&L si le sous-jacent fait l’objet de variations extrêmes ? Quelle anticipation faites-vous en termes de convexité ? 
+	Vous êtes long d’un straddle. Êtes-vous gamma négatif ou positif ? Etes-vous acheteur ou vendeur de la volatilité ? 
+	Si vous êtes long d’un straddle 1 an de strike 100% et de maturité 1 an et short d’un autre straddle de même strike et de maturité 2 ans. Quelle est votre stratégie en termes de volatilité ? 
+	Considérons une option asiatique A de maturité 1 an dont la valeur du sous-jacent est une moyenne arithmétique sur toute la vie du produit. 
 	Considérons maintenant une autre option asiatique B de même maturité dont la valeur du strike est une moyenne arithmétique de différent strikes sur toute la vie du produit. 
 	Quelle option est la plus chère ? Justifiez.
 
 	Comment évolue le delta d’un Call Spread ? Tracer son évolution en fonction du spot. Expliquez. Que remarquez-vous quand vous comparer le call spread un an et la digitale un an ? Conclure. 
-	 Considérons une position longue sur un Call Up and Out de maturité 1 an, Strike 100 Barrière 120. Si le spot est proche de la barrière, quelle est le sens de la position en delta du trader sur le produit ? Pourquoi ? 
-	 Qu’est-ce qu’un variance swap ? Pourquoi le prix d’un variance swap est-il supérieure à la volatilité implicite d’un call à la monnaie ? 
-	 Comment hegder une option asiatique avec des call européens ?
-	*/
-
-	/*
+	Considérons une position longue sur un Call Up and Out de maturité 1 an, Strike 100 Barrière 120. Si le spot est proche de la barrière, quelle est le sens de la position en delta du trader sur le produit ? Pourquoi ? 
+	Qu’est-ce qu’un variance swap ? Pourquoi le prix d’un variance swap est-il supérieure à la volatilité implicite d’un call à la monnaie ? 
+	Comment hegder une option asiatique avec des call européens ?
+	
 	Considerons deux actions A et B qui valent toutes les deux 100.
 	Vous etes long d’une binaire qui paie 1 si le Best-Of des deux actions est superieur ou egal a 110.
 	Quel est le sens du gamma en considerant uniquement l’action A ?
 	Uniquement l’action B ? Quel est son sens maintenant en considerant a la fois A et B ? Pourquoi ce changement ?
-	*/
+	
 
-	/*
 	Quel est l’effet provoque par une injection de masse monetaire par une banque centrale ? 
 	Quelle est l’influence d’une baisse des taux directeur sur le marche equity ?
 	Est-il possible que des taux d’interets soient negatifs ? 
 	Quels differents indicateurs de marche sont surveilles dans une salle de marche ? 
 	Dans les accords de Bale III, combien une banque doit-elle detenir en fond propre ? 
-	*/
-
-]
-
+	
